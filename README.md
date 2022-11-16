@@ -30,3 +30,11 @@ const lastname = 'Jaoude';
 + const firstname = 'Sarah';
 const lastname = 'Jaoude';
 ```
+
+> This is a quoted text
+
+Reply the quoted text
+
+<!-- This is a comment --!>
+
+Comment
