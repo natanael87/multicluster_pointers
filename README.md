@@ -16,3 +16,10 @@ The code was written in
 | heading 1 | heading 2 | heading 3 |
 | :--- |:---: | ---: |
 | row1 column 1 | row1 column 2 | row 1 column 3 |
+
+This is a line code `const name = 'Eddie Jaoude';`
+
+``
+const firstname = 'Eddie';
+const lastname = 'Jaoude';
+``
