@@ -2,4 +2,4 @@
 
 *Multicluster algorithm to calculate clusters in a lattice using pointers*
 
-**Post doctorade research project**
+**This is my** ~~Currently~~**Post doctorade research project**
