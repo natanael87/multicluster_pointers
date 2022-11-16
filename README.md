@@ -19,7 +19,14 @@ The code was written in
 
 This is a line code `const name = 'Eddie Jaoude';`
 
-``
+```ts
 const firstname = 'Eddie';
 const lastname = 'Jaoude';
-``
+```
+
+
+```diff
+- const firstname = 'Eddie';
++ const firstname = 'Sarah';
+const lastname = 'Jaoude';
+```
